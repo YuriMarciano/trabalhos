@@ -17,33 +17,48 @@
 ## Variáveis
 
 ### Numéricas
-- TotalFemPAno23 
-- TotalTentaPAno23
+**Array com os Feminicídios**
+- TotalFemPAno23
 - TotalFemPAno17
+
+**Array com as Tentativas**
+- TotalTentaPAno23
 - TotalTentaPAno17
-- cAngularFemin23
-- interFemin23
-- FeminPred2023
-- mediaF23
-- d_padraoFem23
-- outlierF23
+
+**Coeficientes Angulares**
+- cAngularFemin23 - Coeficientes Angulares
 - cAngularTenta23
-- interTenta23
-- TentaPred2023
-- mediaT23
-- d_padraoTen23
-- outlierT23
 - cAngularFemin17
-- interFemin17
-- FeminPred17
-- mediaF17
-- d_padraoFem17
-- outlierF17
 - cAngularTenta17
+  
+**Interceptos**
+- interFemin23
+- interTenta23
+- interFemin17
 - interTenta17
+
+**Resultados previstos**
+- FeminPred2023
+- TentaPred2023
+- FeminPred17
 - TentaPred17
+
+**Médias**
+- mediaF23
+- mediaT23
+- mediaF17
 - mediaT17
+
+**Desvios padrões**
+- d_padraoFem23 - Desvios padrões 
+- d_padraoTen23
+- d_padraoFem17
 - d_padraoTen17
+
+**Outliers**
+- outlierF23
+- outlierT23
+- outlierF17
 - outlierT17
 
 ### Temporais
